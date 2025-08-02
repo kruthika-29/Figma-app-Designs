@@ -28,13 +28,11 @@ To design a mobile-first online food delivery app that offers:
   <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/login.png?raw=true" alt="Login Screen" width="45%"/>
 </p>
 
-![output](https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/login(1).png)
+<p align="center">
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/login(1).png?raw=true" alt="Home Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp.png?raw=true" alt="Login Screen" width="45%"/>
+</p>
 
-![output](https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp.png)
- 
-![output](https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp(1).png)     
-
-![output](https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp(2).png)
 
 
 ## 📌 Note
