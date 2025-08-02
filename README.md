@@ -29,11 +29,33 @@ To design a mobile-first online food delivery app that offers:
 </p>
 
 <p align="center">
-  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/login (1).png?raw=true" alt="Home Screen" width="45%"/>
-  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp.png?raw=true" alt="Login Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp.png?raw=true" alt="Home Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp (1).png?raw=true" alt="Login Screen" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/otp (2).png?raw=true" alt="Home Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/Home (1).png?raw=true" alt="Login Screen" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/Home (2).png?raw=true" alt="Home Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/Home (3).png?raw=true" alt="Login Screen" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/dosa.png?raw=true" alt="Home Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/food nonveg.png?raw=true" alt="Login Screen" width="45%"/>
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/biryani.png?raw=true" alt="Home Screen" width="45%"/>
+  <img src="https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/add to cart.png?raw=true" alt="Login Screen" width="45%"/>
+</p>
+
+
+![output](https://github.com/kruthika-29/Figma-app-Designs/blob/main/assets/add%20to%20cart%20(1).png)
 
 ## 📌 Note
 
